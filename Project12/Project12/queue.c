@@ -66,3 +66,8 @@ struct Node* dequeue()
 	front = front->next;
 	return temp;
 }
+
+void printQueue()
+{
+
+}
